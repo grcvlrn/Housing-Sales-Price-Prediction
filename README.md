@@ -87,3 +87,7 @@ Customer Insights: With this model, we could understand customers' preferences t
 Partnership and Alliances: We could form strategic partnerships with builders and developers, collaborate with real estate agents, and mortgage lenders to create projects in high-growth areas by offering bundled services based on market predictions.
 
 Innovation and Technology: Appealing to tech-savvy and environmentally conscious buyers with smart home technology and sustainable and energy-efficient building practices in high-demand and increasing housing price areas.
+
+## IV. Attachment
+[Powerpoint](https://docs.google.com/presentation/d/18wHodnB8ODaqO8ixMLs7lDFKTi392xJvicXd2BtRCOI/edit?usp=sharing)
+[Model.pkl](https://drive.google.com/file/d/1mKrC1KieeDg0zJBV2_c3oa_rg6bCIJYa/view?usp=sharing)
