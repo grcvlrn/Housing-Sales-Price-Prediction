@@ -1,12 +1,53 @@
 # Housing-Sales-Price-Prediction
 
-## Background
+## I. Background
 ### Objectives:
 This program is designed to predict the price of houses based on data that has been collected. Accurate house price prediction is crucial for various stakeholders in the real estate market, including buyers, sellers, and investors. By leveraging historical data, we can identify patterns and trends that influence house prices.
 
 Using this data, the program will employ statistical and machine learning techniques to build a model that can predict house prices based on the given features. The goal is to provide accurate and reliable predictions to aid in making informed decisions in the real estate market.
 
-### 
+### Data Overview:
+id: Unique identifier for each house (integer)
+
+date: Date when the house was sold (object)
+
+price: Sale price of the house (float)
+
+bedrooms: Number of bedrooms (integer)
+
+bathrooms: Number of bathrooms (float)
+
+sqft_living: Square footage of the living area (integer)
+
+sqft_lot: Square footage of the lot (integer)
+
+floors: Number of floors (float)
+
+waterfront: Whether the house has a waterfront view (integer)
+
+view: Quality of the view from the house (integer)
+
+condition: Condition of the house (integer)
+
+grade: Overall grade given to the housing unit, based on King County grading system (integer)
+
+sqft_above: Square footage of the house apart from the basement (integer)
+
+sqft_basement: Square footage of the basement (integer)
+
+yr_built: Year the house was built (integer)
+
+yr_renovated: Year the house was renovated (integer)
+
+zipcode: Zip code of the house (integer)
+
+lat: Latitude coordinate of the house (float)
+
+long: Longitude coordinate of the house (float)
+
+sqft_living15: Living room area (integer)
+
+sqft_lot15: Lot area (integer)
 
 ## II. Conclusion
 First of all we will import all of the libraries that we want to use. Then we will load the data. The data have 21 columns with 21613 entries. The data have integer and float data types which are considered numerical. There is no missing value present in the data which means that the missing value handling can be skipped. Later on we drop the id and date column because it is unnecessary in predicting the price.
