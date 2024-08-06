@@ -100,3 +100,4 @@ Innovation and Technology: Appealing to tech-savvy and environmentally conscious
 ## IV. Attachment
 [Powerpoint](https://docs.google.com/presentation/d/18wHodnB8ODaqO8ixMLs7lDFKTi392xJvicXd2BtRCOI/edit?usp=sharing)
 [Model.pkl](https://drive.google.com/file/d/1mKrC1KieeDg0zJBV2_c3oa_rg6bCIJYa/view?usp=sharing)
+[Huggingface Deployment](https://huggingface.co/spaces/grcvlrn/Price_Prediction_Deployment/tree/main)
